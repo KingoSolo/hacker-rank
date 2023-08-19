@@ -4,14 +4,6 @@
 
 Welcome to my HackerRank solutions repository! This repository contains my solutions to various HackerRank challenges, showcasing my problem-solving skills and coding proficiency. The solutions are provided in different programming languages and are categorized under different domains and subdomains.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Languages](#languages)
-- [Challenges](#challenges)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -19,37 +11,10 @@ HackerRank is a platform that offers coding challenges to enhance programming sk
 
 ## Languages
 
-The challenges are solved using various programming languages, including but not limited to:
+The challenges are solved using various programming languages, and i would be using 
+-javascript
 
-- JavaScript
-- Python
-- Java
-- C++
-- ...
 
-## Challenges
-
-### Algorithm Domain
-
-- [Challenge 1](/algorithms/challenge1)
-- [Challenge 2](/algorithms/challenge2)
-- ...
-
-### Data Structures Domain
-
-- [Challenge 1](/data-structures/challenge1)
-- [Challenge 2](/data-structures/challenge2)
-- ...
-
-## How to Use
-
-1. Clone this repository using `git clone`.
-2. Navigate to a specific challenge's directory using `cd domainX/challengeY`.
-3. Open the solution file in your preferred code editor.
-4. Read the problem statement to understand the requirements.
-5. Review the solution code and comments to understand the approach.
-6. Run the code in your local development environment to test it.
-7. If you have suggestions or improvements, contributions are welcome!
 
 ## Contributing
 
