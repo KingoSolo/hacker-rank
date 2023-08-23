@@ -4,7 +4,7 @@ const fs = require('fs');
 
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
-
+ 
 let inputString = '';
 let currentLine = 0;
 
@@ -34,7 +34,6 @@ function readLine() {
  */
 
 function jumpingOnClouds(c) {
-    // Write your code here
     const n = c.length;
     const dp = new Array(n).fill(Infinity);
     dp[0] = 0;
